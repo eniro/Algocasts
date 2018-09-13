@@ -1,0 +1,1 @@
+This repository contains exercises on algorithms for practice.
