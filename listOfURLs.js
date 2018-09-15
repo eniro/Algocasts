@@ -19,7 +19,7 @@
 
 var myTarget = document.querySelector("#mylists");
 
-Array.forEach(function(item) {
+Arr.forEach(function(item) {
     var link = document.createElement('a');
     link.href = item.link;
     link.innerText = item.name;
